@@ -1,0 +1,11 @@
+D:\C#development\ThomasGlobalApp\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\C#development\ThomasGlobalApp\Domain\bin\Debug\net8.0\Domain.dll
+D:\C#development\ThomasGlobalApp\Domain\bin\Debug\net8.0\Domain.pdb
+D:\C#development\ThomasGlobalApp\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#development\ThomasGlobalApp\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\C#development\ThomasGlobalApp\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\C#development\ThomasGlobalApp\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\C#development\ThomasGlobalApp\Domain\obj\Debug\net8.0\Domain.dll
+D:\C#development\ThomasGlobalApp\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\C#development\ThomasGlobalApp\Domain\obj\Debug\net8.0\Domain.pdb
+D:\C#development\ThomasGlobalApp\Domain\obj\Debug\net8.0\ref\Domain.dll
